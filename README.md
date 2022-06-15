@@ -1,13 +1,16 @@
 ## Emiliano Musso
 
-### Chi sono
-Sono uno sviluppatore software in ambito gestionale da 20 anni.
-Il coding e l'aggiornamento in merito alle tecnologie ad esso relative sono per me sia un lavoro che una passione, che coltivo alla ricerca di una sempre maggior competenza. Sono inoltre tra gli autori italiani di articoli dedicati al portale di approfondimento Microsoft TechNet Wiki, dal quale sono stato intervistato nel Maggio 2015. Dal 2014 al 2018 ho ricevuto la qualifica di Microsoft MVP (Most Valuable Professional) per l'expertise .NET prima, e nell'ambito Visual Studio e Development Technologies poi. Nel Luglio 2015 ho ricevuto tale riconoscimento anche dalla community C# Corner, tra le maggiori dedicate allo sviluppo. Attualmente faccio parte della community Microsoft MVP Reconnect.
+### About me
+I'm a software engineer, passionate about development technologies. I'm an italian author for Microsoft TechNet Wiki, and I've received the Microsoft MVP award from 2014 to 2018 for the Visual Studio and Development Technologies expertise. In 2015 I was awarded with C# Corner MVP award. Nowadays I'm part of the Microsoft MVP Reconnect community.
 
-<p align="center">
-<img src="https://mvp.microsoft.com/Content/Images/MVP_Reconnect_Logo_Blue_Color_RGB.png" width="25%" height="25%/">
-</p>
+### Connect with me
 
-Visitate il mio canale YouTube, nel quale troverete tutorial ed esempi su diversi argomenti a tematica coding: https://www.youtube.com/c/EmilianoMusso
+- LinkedIn: https://www.linkedin.com/in/mussoemiliano/
+- Youtube: https://www.youtube.com/c/EmilianoMusso/
 
+### Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilianoMusso&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoMusso&layout=compact&show_icons=true&theme=dark)](https://github.com/EmilianoMusso)
 
